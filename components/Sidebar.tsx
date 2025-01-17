@@ -16,11 +16,11 @@ const Sidebar = ({ user }: SiderbarProps) => {
                     href='/'
                     className='mb-12 cursor-pointer flex items-center gap-2'>
                     <Image
-                        src='/icons/logo.svg'
+                        src='/icons/logo2.svg'
                         alt='logo'
-                        width={34}
-                        height={34}
-                        className='size-[24px] max-xl:size-14' />
+                        width={50}
+                        height={50}
+                        className='size-[50px] max-xl:size-25' />
                     <h1 className='sidebar-logo'>
                         Financial Hub
                     </h1>

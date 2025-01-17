@@ -46,7 +46,7 @@ const MobileNavbar: React.FC<MobileNavProps> = ({ user }) => {
             className="cursor-pointer flex items-center gap-2 px-4 py-4"
           >
             <Image
-              src="/icons/logo.svg"
+              src="/icons/logo2.svg"
               alt="logo"
               width={34}
               height={34}

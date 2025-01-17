@@ -17,7 +17,7 @@ const ibmPlesSerf = IBM_Plex_Serif({
 export const metadata: Metadata = {
   title: "Financial Hub",
   description: "Secure and reliable banking system for seamless financial management and transactions. Experience advanced security, efficient processing, and trustworthy financial solutions.",
-  icons:'/icons/logo.svg'
+  icons:'/icons/logo2.svg'
 };
 
 export default function RootLayout({
